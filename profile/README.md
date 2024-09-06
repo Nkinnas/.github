@@ -1,3 +1,9 @@
 # GAMEDEV F24
 
-GO PLAY BRANDON'S GAME [Brandon_Games GitHub Repository](https://github.com/GameDevelopment-F24/Brandon_Games)
+Please place your game link under the title :D
+
+### Asteroids
+
+Brandon:
+
+Hugh: [Asteroids](https://hjc2.github.io/asteroids/)
